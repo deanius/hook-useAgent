@@ -1,0 +1,22 @@
+{
+  "name": "q8y39nzpnq",
+  "version": "1.0.0",
+  "description": "Hooks -> Rx Part 3 - multi-instance Agent Hook",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.0-alpha.0",
+    "react-dom": "16.8.0-alpha.0",
+    "react-scripts": "2.0.3",
+    "rxjs": "6.3.3",
+    "rx-helper": "1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
